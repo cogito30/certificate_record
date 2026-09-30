@@ -3,7 +3,7 @@
 ## Plan
 
 #### 10월
-- (Min) 1 hour/day(week)
+- (Min) 2 hour/day(week)
 
 ## Certificate List
 
